@@ -1,0 +1,5 @@
+# Folder paths to ignore
+/target
+
+# File types to ignore
+*.lock
