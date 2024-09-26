@@ -1,6 +1,5 @@
 
 // Flocking boids example with gpu compute update pass
-// adapted from https://github.com/austinEng/webgpu-samples/blob/master/src/examples/computeBoids.ts
 
 use nanorand::{Rng, WyRand};
 use std::{borrow::Cow, mem::size_of};
@@ -324,6 +323,5 @@ impl crate::framework::Example for Example {
 }
 
 pub fn main() {
-    print!("Hello, world!\n");
     crate::framework::run::<Example>("boids");
 }
