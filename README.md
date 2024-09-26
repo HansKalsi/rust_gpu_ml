@@ -1,0 +1,2 @@
+# Rust GPU ML
+This is a play-around project attempting to gain understand of Machine Learning and GPUs, the goal is to achieve any results with pure Rust and for me to gain a deeper understanding of both concepts when it comes to applying them to the Rust ecosytem
